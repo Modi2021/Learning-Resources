@@ -1,0 +1,7 @@
+This guide "From 0 to Research Scientist" is detailed and tailored for anyone who want to dig deep into the field of AI with solid foundation.
+
+It serves as a great foundational reference for topics such as #Mathematics, Machine Learning, Deep Learning, Reinforcement Learning and NLP.
+
+
+
+Link to github repo:----> https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
